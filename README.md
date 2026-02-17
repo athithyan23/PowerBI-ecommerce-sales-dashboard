@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project is an *E-Commerce Sales Analysis Dashboard* built using Microsoft Power BI.  
-The dashboard provides key insights such as Sales, Profit, Orders, Customers, and performance trends across Category, Segment, and Region.
+The dashboard provides key insights such as *Sales, Profit, Orders, Customers, and performance trends across **Category, Segment, and Region*.
 
 ## Key Insights in Dashboard
   Total Sales  
