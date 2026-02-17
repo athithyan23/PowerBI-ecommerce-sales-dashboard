@@ -30,7 +30,7 @@ Total Profit = SUM(superstore_india_sample_v2[Profit])
 Total Orders = DISTINCTCOUNT(superstore_india_sample_v2[Order ID])
 
 Total Customers = DISTINCTCOUNT(superstore_india_sample_v2[Customer ID])
-```md
+```
 
 ## 📷 Dashboard Preview
 ![E-Commerce Dashboard](edashboard.png)
